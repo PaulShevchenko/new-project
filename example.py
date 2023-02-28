@@ -4,3 +4,4 @@ print(f"Welcome {name}! UwU")
 greeting = input('RP?  "Y" or "N"')
 if greeting == 'Y' or 'y':
     ban += 1
+    
